@@ -1,0 +1,26 @@
+  .opcoes #nivel{
+        text-align: center;
+    }
+    .opcoes button{
+        margin-left: 25%;
+        margin-top: 10px;
+    }
+    .opcoes button p{
+        text-align: left;
+        margin-top: 0px;
+    }
+    footer {
+        color: white;
+        background-color:black;
+        text-align: center;
+    }
+    footer p {
+        display: inline-block;
+        
+    }
+    footer .logo{
+        text-align:right;
+    }
+    footer img{
+        width: 100px;
+    }
